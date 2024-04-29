@@ -1,1 +1,15 @@
 Flask
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+DecisionTree
+SVC
+requests
+confusion-matrix
+accuracy
+split-folders
+naive-bayes
+app
+response
